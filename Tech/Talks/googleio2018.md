@@ -1,0 +1,8 @@
+- [Conversation with John Hennasey](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
+- [What's new in chrome Dev tools](https://www.youtube.com/watch?v=mfuE53x4b3k)
+- [Web performance made easy](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+- [Build the future of web with modern js](https://www.youtube.com/watch?v=mIWCLOftfRw) 
+- [Use chrome web UX report and lighthouse](https://www.youtube.com/watch?v=UvK9zAsSM8Q)
+[PWA starter kit build fast scalable modern apps with web - components](https://www.youtube.com/watch?v=we3lLo-UFtk)
+- [Headless chrome and browser automation](https://www.youtube.com/watch?v=lhZOFUY1weo)
+- [The web state of the union](https://www.youtube.com/watch?v=Ay-mdLMDtbs)

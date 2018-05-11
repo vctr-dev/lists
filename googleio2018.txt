@@ -1,0 +1,8 @@
+Conversation with John hennasey
+What's new in chrome Dev tools 
+Web performance made easy 
+Build the future of web with modern js ( above) 
+Use chrome web UX report and lighthouse 
+PWA starter kit build fast scalable modern apps with web components
+Headless chrome and browser automation 
+The web state of the union
